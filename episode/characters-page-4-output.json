@@ -1,0 +1,20 @@
+{
+  "data": {
+    "episodes": {
+      "results": [
+        {
+          "id": "51",
+          "name": "Rickternal Friendshine of the Spotless Mort",
+          "air_date": "September 5, 2021",
+          "episode": "S05E08"
+        },
+        {
+          "id": "52",
+          "name": "Forgetting Sarick Mortshall",
+          "air_date": "September 5, 2021",
+          "episode": "S05E09"
+        }
+      ]
+    }
+  }
+}

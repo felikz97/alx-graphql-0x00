@@ -1,0 +1,20 @@
+{
+  "data": {
+    "episodes": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Ricksy Business",
+          "air_date": "April 14, 2014",
+          "episode": "S01E11"
+        },
+        {
+          "id": "22",
+          "name": "A Rickle in Time",
+          "air_date": "July 26, 2015",
+          "episode": "S02E01"
+        }
+      ]
+    }
+  }
+}

@@ -1,8 +1,8 @@
-# Episode by ID Query — ALX GraphQL 0x00
+# Paginated Episodes — ALX GraphQL 0x00
 
-This directory contains a GraphQL query and output for fetching a specific episode by ID using the Rick and Morty GraphQL API.
+This directory contains GraphQL queries and output files to fetch paginated episode lists using the Rick and Morty GraphQL API.
 
-## Fields Queried
+## Queried Fields
 
 - id
 - name
@@ -11,5 +11,7 @@ This directory contains a GraphQL query and output for fetching a specific episo
 
 ## Files
 
-- `episode-id-1.graphql`: The GraphQL query to fetch episode with ID 1
-- `episode-id-1-output.json`: The response output from the API
+- episode-page-1.graphql / characters-page-1-output.json
+- episode-page-2.graphql / characters-page-2-output.json
+- episode-page-3.graphql / characters-page-3-output.json
+- episode-page-4.graphql / characters-page-4-output.json

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "episodes": {
+      "results": [
+        {
+          "id": "41",
+          "name": "The Ricklantis Mixup",
+          "air_date": "September 10, 2017",
+          "episode": "S03E07"
+        },
+        {
+          "id": "42",
+          "name": "Morty’s Mind Blowers",
+          "air_date": "September 17, 2017",
+          "episode": "S03E08"
+        }
+      ]
+    }
+  }
+}
