@@ -1,0 +1,12 @@
+query {
+  character(id: 2) {
+    id
+    name
+    status
+    species
+    type
+    gender
+  }
+}
+# This GraphQL query retrieves the details of a character with ID 2.
+# It includes fields such as id, name, status, species, type, and gender.
